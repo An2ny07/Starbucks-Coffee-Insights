@@ -1,4 +1,4 @@
-☕ Starbucks Beverage Insights Dashboard
+☕ Starbucks Coffee Insights Dashboard
 
 📌 Project Overview
 
@@ -37,13 +37,11 @@ Beverage Name Beverage Category Beverage Preparation Calories Sugar Protein Caff
 
 📷 Dashboard Preview
 
-Screenshot 2026-06-17 150112
-📁 Project Structure Starbucks-Beverage-Dashboard/ │ ├── Starbucks Dashboard.pbix ├── Starbucks Dataset.xlsx ├── Dashboard_Screenshot.png └── README.md
+<img width="767" height="432" alt="image" src="https://github.com/user-attachments/assets/6471e067-f4f5-4437-b399-129ffe541b08" />
 
-🔮 Future Enhancements Add trend analysis visualizations. Implement drill-through pages. Add beverage recommendation insights. Include advanced nutritional comparison metrics. Integrate external Starbucks store data.
+👨‍💻 Author: Mark Anthony Bulda <br>
+Aspiring Data Analyst | Power BI Developer
 
-👨‍💻 Author Abhishek Patil Aspiring Data Analyst | Power BI Developer
+Connect with Me LinkedIn: linkedin.com/in/markanthonybulda
 
-Connect with Me LinkedIn: www.linkedin.com/in/ abhishek-patil-6a771b266
-
-GitHub: https://github.com/abhipatil9356
+GitHub: https://github.com/An2ny07
