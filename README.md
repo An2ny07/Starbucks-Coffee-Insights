@@ -39,10 +39,11 @@ Beverage Name Beverage Category Beverage Preparation Calories Sugar Protein Caff
 
 <img width="767" height="432" alt="image" src="https://github.com/user-attachments/assets/6471e067-f4f5-4437-b399-129ffe541b08" />
 
-<br>
-👨‍💻 Author: Mark Anthony Bulda <br>
+
+👨‍💻 Author: Mark Anthony Bulda 
+
 Aspiring Data Analyst | Power BI Developer
-<br>
+
 Connect with Me LinkedIn: linkedin.com/in/markanthonybulda
 
 GitHub: https://github.com/An2ny07
